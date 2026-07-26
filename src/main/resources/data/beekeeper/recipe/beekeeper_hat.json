@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "SHS",
+    "WLW",
+    "WWW"
+  ],
+  "key": {
+    "S": { "item": "minecraft:string" },
+    "H": { "item": "minecraft:honeycomb" },
+    "W": { "tag": "minecraft:wool" },
+    "L": { "item": "minecraft:leather" }
+  },
+  "result": {
+    "count": 1,
+    "id": "beekeeper:beekeeper_hat"
+  }
+}

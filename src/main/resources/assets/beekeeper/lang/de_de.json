@@ -1,0 +1,17 @@
+{
+  "itemGroup.beekeeper": "Imker",
+  "item.beekeeper.beekeeper_hat": "Imkerhut",
+  "item.beekeeper.beekeeper_jacket": "Imkerjacke",
+  "item.beekeeper.beekeeper_pants": "Imkerhose",
+  "item.beekeeper.beekeeper_boots": "Imkerstiefel",
+  "item.beekeeper.smoker": "Räuchergerät",
+
+  "enchantment.beekeeper.smoke_radius": "Rauchradius",
+  "enchantment.beekeeper.smoke_duration": "Langlebiger Rauch",
+  "enchantment.beekeeper.quick_cooldown": "Schnelles Anheizen",
+  "enchantment.beekeeper.bee_tracker": "Bienen-Tracker",
+
+  "tooltip.beekeeper.smoke_remaining": "Beräuchert (%ss)",
+  "tooltip.beekeeper.bee_calm": "Ruhig",
+  "tooltip.beekeeper.bee_angry": "Wütend (%ss)"
+}

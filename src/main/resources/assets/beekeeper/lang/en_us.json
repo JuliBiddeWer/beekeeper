@@ -1,0 +1,22 @@
+{
+  "itemGroup.beekeeper": "Beekeeper",
+  "item.beekeeper.beekeeper_hat": "Beekeeper Hat",
+  "item.beekeeper.beekeeper_jacket": "Beekeeper Jacket",
+  "item.beekeeper.beekeeper_pants": "Beekeeper Leggings",
+  "item.beekeeper.beekeeper_boots": "Beekeeper Boots",
+  "item.beekeeper.smoker": "Smoker",
+
+  "enchantment.beekeeper.smoke_radius": "Smoke Radius",
+  "enchantment.beekeeper.smoke_duration": "Lingering Smoke",
+  "enchantment.beekeeper.quick_cooldown": "Quick Stoking",
+  "enchantment.beekeeper.bee_tracker": "Bee Tracker",
+
+  "tooltip.beekeeper.smoke_remaining": "Smoked (%ss)",
+  "tooltip.beekeeper.bee_calm": "Calm",
+  "tooltip.beekeeper.bee_angry": "Angry (%ss)",
+
+  "beekeeper.configuration.title": "Beekeeper Configs",
+  "beekeeper.configuration.section.beekeeper.common.toml": "Beekeeper Configs",
+  "beekeeper.configuration.section.beekeeper.common.toml.title": "Beekeeper Configs",
+  "beekeeper.configuration.smokeDurationTicks": "Smoke Duration (ticks)"
+}

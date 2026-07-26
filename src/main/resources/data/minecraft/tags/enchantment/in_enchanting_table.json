@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "beekeeper:smoke_radius",
+    "beekeeper:smoke_duration",
+    "beekeeper:quick_cooldown",
+    "beekeeper:bee_tracker"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8.6",
+  "package": "com.julibiddewer.beekeeper.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BeehiveBlockEntityMixin",
+    "BeehiveBlockMixin",
+    "CampfireBlockMixin"
+  ],
+  "client": [
+    "PlayerRendererMixin"
+  ],
+  "server": []
+}
