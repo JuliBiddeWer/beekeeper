@@ -1,11 +1,8 @@
 # Beekeeper
-
-![Beekeeper](mod.png)
-
-A NeoForge mod for Minecraft 1.21.1 that adds a full beekeeper's toolkit - a
+A mod that adds a full beekeeper's toolkit - a
 protective outfit and a smoker - so you can work with hives and bees without
 getting swarmed.
-
+![Beekeepers outfit](https://cdn.modrinth.com/data/cached_images/2fe9b8a1f039d72a80c5702dc34b8115b43c7245.jpeg)
 ## Items
 
 ### Beekeeper Outfit
@@ -14,15 +11,14 @@ pieces of the same outfit.
 
 - **Beekeeper Hat** - helmet piece.
   This is the key item: **you must wear the hat to use the smoker on a hive.**
-  While worn, the hat also hides the outer (second) layer of your player skin so
-  your hat detail no longer pokes through the helmet.
+ 
 - **Beekeeper Jacket** - chestplate (cosmetic, no defense).
 - **Beekeeper Pants** - leggings (cosmetic, no defense).
 - **Beekeeper Boots** - boots (cosmetic, no defense).
 
 ### Smoker
 A durable tool (65 durability, stacks to 1) for calming bees.
-
+![Smoker](https://cdn.modrinth.com/data/cached_images/69363d3fc23338df0ddf5169dfdc4fdf7c566803.jpeg)
 - **Right-click a beehive or bee nest** (while wearing the beekeeper hat) to
   smoke the hive. For a short time the hive stays sedated - bees do not become
   aggressive when you harvest honey or break the hive. This works just like a
@@ -46,13 +42,11 @@ The smoker supports three exclusive enchantments:
 The beekeeper hat supports one exclusive enchantment:
 
 - **Bee Tracker** - while worn, every bee within 48 blocks is given a hidden
-  Glowing outline so you can see them through walls. The outline refreshes
-  several times per second so it never flickers.
+  Glowing outline so you can see them through walls.
 
 ## Configuration
 
-All tunable values live in `config/beekeeper-common.toml` and can be edited
-in-game via *Mods → Beekeeper → Config*:
+All tunable values live in `config/beekeeper-common.toml` .
 
 | Option | Default | Description |
 |---|---|---|
@@ -72,24 +66,3 @@ in-game via *Mods → Beekeeper → Config*:
   smoke time and the bees' anger state.
 
 Both are optional for end users; the mod works without them.
-
-## Requirements
-
-- Minecraft 1.21.1
-- NeoForge 21.1.243
-- **GeckoLib 4.9.2** (required - the beekeeper outfit is rendered with it)
-- Java 21
-
-## Building
-
-```
-./gradlew build
-```
-
-The compiled jar is placed in `build/libs/`.
-
-## Credits
-
-Built on the [NeoForge](https://neoforged.net/) modding platform with mappings
-from Mojang and [Parchment](https://parchmentmc.org/). 3D models and rendering
-powered by [GeckoLib](https://github.com/bernie-g/geckolib).
