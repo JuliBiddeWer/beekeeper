@@ -2,7 +2,9 @@
 A mod that adds a full beekeeper's toolkit - a
 protective outfit and a smoker - so you can work with hives and bees without
 getting swarmed.
-![Beekeepers outfit](https://cdn.modrinth.com/data/cached_images/2fe9b8a1f039d72a80c5702dc34b8115b43c7245.jpeg)
+
+<img width="2560" height="1369" alt="Main" src="https://github.com/user-attachments/assets/41cd7c87-79c3-4485-b0bf-49157ec24b44" />
+
 ## Items
 
 ### Beekeeper Outfit
@@ -18,7 +20,9 @@ pieces of the same outfit.
 
 ### Smoker
 A durable tool (65 durability, stacks to 1) for calming bees.
-![Smoker](https://cdn.modrinth.com/data/cached_images/69363d3fc23338df0ddf5169dfdc4fdf7c566803.jpeg)
+
+<img width="2560" height="1441" alt="Smoker" src="https://github.com/user-attachments/assets/83ed38d4-d915-45ab-9f7e-7b57523106ca" />
+
 - **Right-click a beehive or bee nest** (while wearing the beekeeper hat) to
   smoke the hive. For a short time the hive stays sedated - bees do not become
   aggressive when you harvest honey or break the hive. This works just like a
