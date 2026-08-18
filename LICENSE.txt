@@ -1,9 +1,6 @@
-MIT License
+MIT License with Attribution Requirement
 
-Copyright (c) 2023 NeoForged project
-
-This license applies to the template files as supplied by github.com/NeoForged/MDK
-
+Copyright (c) 2026 JuliBiddeWer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -14,6 +11,23 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+Attribution:
+Any redistribution or substantial use of this software must retain attribution
+to JuliBiddeWer for all modifications and original contributions made by
+JuliBiddeWer. Such modifications and contributions must not be represented
+as original work of another person or project.
+
+Original Template:
+This project was originally created using the NeoForged Mod Development Kit
+(MDK). The original template files supplied by the NeoForged MDK are licensed
+under the MIT License by the NeoForged project.
+
+The NeoForged MDK copyright notice and license terms must be retained for any
+original NeoForged MDK template files that are redistributed as part of this
+project. This attribution applies only to the original NeoForged MDK template
+files and does not imply authorship of the modifications or original
+contributions made by JuliBiddeWer.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
